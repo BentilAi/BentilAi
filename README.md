@@ -1,9 +1,18 @@
-### Hi there 👋
+### Hello Everyone, I'm Tarish 👋
+
+I am a 22-year-old Investment Banker based in the 🇺🇸, and I am passionate about QuantFi, AI, Machine Learning, Investments, Private Equity & Venture Capital!
+
+- 🔭 Explore my thttps://tarishbentil.substack.com for more about my other passions! https://tarishbentil.substack.com
+- 🌱 I’m currently learning algorithmic trading with Python & R
+- 🤔 I’m looking for help with diving into AI & ML
+- 📫 How to reach me: The best way to reach me is through linkedin!
+- ⚡ Fun fact: I enjoy learning things that many may find complex!
 
 <!--
 **BentilAi/BentilAi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
