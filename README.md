@@ -1,6 +1,6 @@
 ### Hello Everyone, I'm Tarish 👋
 
-I am a 22-year-old Investment Banker based in the 🇺🇸, and I am passionate about QuantFi, AI, Machine Learning, Investments, Private Equity & Venture Capital!
+I am a 22-year-old Investment Banker based in the 🇺🇸, and I am passionate about QuantFi, AI, Machine Learning, Investments, Equity Research, Private Equity & Venture Capital!
 
 - 🔭 My newsletter blog is coming soon! Find out for more information at https://tarishbentil.substack.com
 - 🌱 I’m currently learning algorithmic trading with Python & R
